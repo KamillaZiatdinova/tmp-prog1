@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4deb7c8-29ee-44e3-81f6-58444c09f4bc" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/google_code_gson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/googlecode_json_simple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_xml_bind_activation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_xml_bind_jaxb_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sun_istack_import_properties_plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sun_xml_bind_jaxb_impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sun_xml_bind_jaxb_osgi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tmp1/1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tmp1/2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tmp1/delete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tmp1/json.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tmp1/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tmp1/tmp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tmp1/txt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tmp1/user.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tmp1/xml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tmp1/zip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tozip.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="296daob8LMZiAmqa1Ive9jvn17M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/tmp1" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HUAWWEI\IdeaProjects\tmp1\src\com\tmp1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="tmp1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tmp1.tmp1" />
+      <module name="tmp1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tmp1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.tmp1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4deb7c8-29ee-44e3-81f6-58444c09f4bc" name="Changes" comment="" />
+      <created>1652437538001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652437538001</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+</project>
